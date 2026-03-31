@@ -63,4 +63,13 @@ php artisan migrate
 php artisan serve
 
 
+Saya Membuat ini dengan Kelompok saya Selama Prakerin Yakni
+-Azka Saputra
+-Andika Saputra
+-Athallah Hyuga
+-Khidir Ali
+-M.Deppal Rijay
+-Raifal F. Zahran
+
+
 
