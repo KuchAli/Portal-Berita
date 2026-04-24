@@ -66,6 +66,7 @@ Sesuaikan bagian database dengan nama database anda
 ```bash
 php artisan migrate
 ```
+Setelah itu kita jalan kan aplikasi nya dengan :
 
 
 5. **Jalankan Server**
