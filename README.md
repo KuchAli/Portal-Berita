@@ -69,10 +69,10 @@ php artisan migrate
 
 
 5. **Jalankan Server**
-   
-    ```bash
-    php artisan serve
-    ```
+
+```bash
+php artisan serve
+```
 
 
 ## Saya Membuat ini dengan Kelompok saya Selama Prakerin Yakni
