@@ -58,7 +58,7 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-Sesuaikan bagian database:
+Sesuaikan bagian database dengan nama database anda
 
 
 4️. **Migrasi Database**
